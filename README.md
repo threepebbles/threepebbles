@@ -15,5 +15,8 @@
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
 #### Algorithm
+[Codeforces](https://codeforces.com/profile/threepebbles)
+
+[Baekjoon Online Judge](https://www.acmicpc.net/user/heiler)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heiler)](https://solved.ac/heiler/)
