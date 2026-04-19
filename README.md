@@ -17,4 +17,4 @@
 #### Algorithm
 [Baekjoon Online Judge](https://www.acmicpc.net/user/heiler)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heiler)](https://solved.ac/heiler/)
+[![Solved.ac Profile](solved.ac.svg)](https://solved.ac/heiler/)
